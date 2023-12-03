@@ -4,6 +4,7 @@ body {
   margin-left: 80px;
   margin-right: 80px;
   color: white;
+  text-align: center;
 }
 
 .header1 {
@@ -12,17 +13,20 @@ body {
   align-items: center;
   padding: 2px;
   background: #131313;
+  text-align: center;
 }
 
 h2 {
   color: white;
   margin: 60;
+  text-align: center;
 }
 
 h1 {
   color: white;
   margin: 100;
   font-size: 17px;
+  text-align: center;
 }
 
 .application-link {
