@@ -2,7 +2,7 @@ body {
   background-color: black;
   font-family: 'Trebuchet MS', sans-serif;
   margin-left: 80px;
-  padding: 80px;
+  margin-right: 80px;
   color: white;
 }
 
@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px;
+  padding: 2px;
   background: #131313;
 }
 
