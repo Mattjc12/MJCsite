@@ -16,7 +16,13 @@ body {
 
 h2 {
   color: white;
-  margin: 0;
+  margin: 60;
+}
+
+h1 {
+  color: white;
+  margin: 100;
+  font-size: 13px;
 }
 
 .application-link {
