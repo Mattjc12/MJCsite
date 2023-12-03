@@ -13,7 +13,6 @@ body {
   align-items: center;
   padding: 2px;
   background: #131313;
-  text-align: center;
 }
 
 h2 {
@@ -25,7 +24,7 @@ h2 {
 
 h1 {
   color: white;
-  margin: 100;
+  margin: 10;
   font-size: 17px;
   text-align: center;
   margin-left: 200px;
