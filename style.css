@@ -1,8 +1,8 @@
 body {
   background-color: black;
   font-family: 'Trebuchet MS', sans-serif;
-  margin-left: 80px;
-  margin-right: 80px;
+  margin-left: 800px;
+  margin-right: 800px;
   color: white;
   text-align: center;
 }
@@ -18,8 +18,9 @@ body {
 
 h2 {
   color: white;
-  margin: 60;
   text-align: center;
+  margin-left: 800px;
+  margin-right: 800px;
 }
 
 h1 {
@@ -27,6 +28,8 @@ h1 {
   margin: 100;
   font-size: 17px;
   text-align: center;
+  margin-left: 800px;
+  margin-right: 800px;
 }
 
 .application-link {
