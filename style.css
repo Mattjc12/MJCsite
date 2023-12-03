@@ -1,22 +1,23 @@
 body {
   background-color: black;
+  font-family: 'Trebuchet MS', sans-serif;
 }
 .header1 {
   padding: 20px;
   text-align: center;
   background: #131313;
-  font: 15px Arial, sans-serif;
+  font: 15px 'Trebuchet MS', sans-serif;
   color: white;
 }
 h1 {
   color: white;
   margin-left: 20px;
   text-align: center;
-  font: 15px Arial, sans-serif;
+  font: 15px 'Trebuchet MS', sans-serif;
 }
 p1 {
   color: white;
   margin-left: 20px;
   text-align: center;
-  font: 15px Arial, sans-serif;
+  font: 15px 'Trebuchet MS', sans-serif;
 }
